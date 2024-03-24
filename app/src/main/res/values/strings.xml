@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Health Connect Export</string>
+    <string name="title_activity_view_permission_usage">ViewPermissionUsageActivity</string>
+</resources>

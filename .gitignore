@@ -429,3 +429,6 @@ obj/
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/android,androidstudio,macos,windows,linux,jetbrains+all,gradle,intellij+all,kotlin,java
+
+# Sentry Config File
+sentry.properties
